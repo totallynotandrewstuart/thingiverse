@@ -14,7 +14,7 @@
 
 package main
 
-import "astuart.co/thingiverse/cmd/thing/cmd"
+import "github.com/totallynotandrewstuart/thingiverse/cmd/thing/cmd"
 
 func main() {
 	cmd.Execute()

@@ -20,7 +20,7 @@ import (
 	"log"
 	"os"
 
-	"astuart.co/thingiverse"
+	"github.com/totallynotandrewstuart/thingiverse"
 	"github.com/davecgh/go-spew/spew"
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/spf13/cobra"

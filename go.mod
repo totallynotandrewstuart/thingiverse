@@ -1,4 +1,4 @@
-module astuart.co/thingiverse
+module github.com/totallynotandrewstuart/thingiverse
 
 go 1.16
 
